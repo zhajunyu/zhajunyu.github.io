@@ -198,8 +198,8 @@ plugins:
         type: info
         # Theme of the popup. Can be "block", "edgeless", or "classic"
         theme: edgeless
-        static: true
-        position: bottom-left
+        static: false
+        position: bottom-right
         policyLink: https://www.cookiesandyou.com/
     # Enable the lightGallery and Justified Gallery plugins
     gallery: true
