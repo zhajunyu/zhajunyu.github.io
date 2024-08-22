@@ -6,7 +6,7 @@ logo:
     text: Junyu's Blog
 
 head:
-    favicon: /images/android-chrome-512x512.png
+    favicon: /images/favicon.ico
     
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
