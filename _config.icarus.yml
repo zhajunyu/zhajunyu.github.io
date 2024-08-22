@@ -6,7 +6,7 @@ logo:
     text: Junyu's Blog
 
 head:
-    favicon: /images/favicon.ico
+    favicon: /images/favicon.png
     
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
