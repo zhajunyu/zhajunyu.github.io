@@ -84,7 +84,7 @@ navbar:
         关于: /about
     links:
         在GitHub上查看主题:
-            icon: fa-brand fa-github
+            icon: fa-brands fa-github
             url: https://github.com/ppoffice/hexo-theme-icarus
 
 footer:
